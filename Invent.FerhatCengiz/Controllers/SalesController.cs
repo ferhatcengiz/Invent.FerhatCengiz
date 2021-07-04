@@ -13,7 +13,7 @@ using System.Web.Http;
 
 namespace Invent.FerhatCengiz.Controllers
 {
-    public class SalesController : ApiController
+    public class SalesController  : ApiController
     {
         private readonly IMyService _myService;
 
